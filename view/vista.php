@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $nombre="hola steven";
+        $nombre="hola Jordysin";
         ?>
     </body>
 </html>
